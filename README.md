@@ -1,2 +1,7 @@
 # Assignment6
- javascript concepts
+
+**This is my sixth Assignment**   
+
+>In this assignment, I learned some rudimentary javascript concepts
+
+
